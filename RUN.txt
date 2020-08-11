@@ -1,0 +1,11 @@
+ABRIR EL CMD Y
+
+dirijirnos al directorio con
+
+
+cd    (e pega la url y enter)
+
+npm run dev
+
+
+crtl + C detiene el servidor
