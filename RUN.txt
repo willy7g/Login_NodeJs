@@ -9,3 +9,5 @@ npm run dev
 
 
 crtl + C detiene el servidor
+
+luego damos enter
